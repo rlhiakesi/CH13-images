@@ -1,0 +1,5 @@
+CH13-U0001	Upperclassman 1	speech balloon	You can do it, Taren!
+CH13-U0002	Upperclassman 2	speech balloon	Good luck, Mirel!
+CH13-U0003	Zarleen	speech balloon	We came to see you off, not to make you nervous.
+CH13-U0004	Midori	speech balloon	Thank you.
+CH13-U0005	Celeste	speech balloon	First-years. Attention.
